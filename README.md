@@ -21,5 +21,10 @@ Açık Kaynak Araçlar ile Linux Sistemlerin Adli Bilişim İncelemeleri
    </ol>
   </ol>
 <li>Linux Bellek Analizi</li>
+ <ul>
+  <li>fmmem komutu</li>
+  <li>LIME (Linux Memory Extractor) komutu</li>
+  <li>memdump komutu</li>
+ </ul>
 </ul>
 </html> 
