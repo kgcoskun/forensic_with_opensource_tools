@@ -27,4 +27,5 @@ Açık Kaynak Araçlar ile Linux Sistemlerin Adli Bilişim İncelemeleri
   <li>memdump komutu</li>
  </ul>
 </ul>
+<li>Sonuç</li>
 </html> 
