@@ -2,18 +2,19 @@
 <html>
 
  <img src="https://github.com/kgcoskun/forensic_with_opensource_tools/blob/master/forensic.png">
-<h2>Açık Kaynak Araçlar ile Linux Sistemlerin Adli Bilişim İncelemeleri</h2>
+<h2>Açık Kaynak Kod Yazılımlar ile Linux Sistemlerin Adli Bilişim İncelemeleri</h2>
 <p>Projenin amacı,
-Linux İşletim Sistemi üzerinde yapılacak Adli Bilişim İncelemelerinde Ticari Yazılımlar (kaynak kodu kapalı) yerine Açık Kaynak Kod Yazılımlar ile Uluslararası Standartlarda (DoD, NIST) Adli Bilişim incelemelerinin yapılmasını içerir. </p>
+Linux İşletim sistemleri üzerinde yapılacak adli bilişim incelemelerinde ticari yazılımlar (kaynak kodu kapalı) yerine açık kaynak kod yazılımlar ile uluslararası standartlarda (dod, nist) adli bilişim incelemelerinin yapılmasıdır</p>
 <br>
-<p>İlgili ödev de  kısaca aşağıdaki konular anlatılacaktır;</p>
+<p>İlgili proje kapsamında  kısaca aşağıdaki konular anlatılacaktır;</p>
 <br>
 
 <ul>
 <li>Giriş</li>
   <li>Ticari Yazılımlar ile Yapılan Adli Bilişim İnceleme Adımları</li>
-  <li>Açık Kaynak Kod Araçlar ile Adli Bilişim</li>
-  <li>Adım Adım Ticari Yazılımlar ile Yapılan İşlemlerin Aşağıdaki Açık Kaynak Araçlar ile Yapılması
+  <li>Linux Sistem Analizi</li>
+ <li>Açık Kaynak Kod Araçlar ile Adli Bilişim</li>
+ <li>Ticari Yazılımlar ile Yapılan İşlemlerin Aşağıdaki Açık Kaynak Kod Yazılımlar ile Yapılması
       <ul>
     <li>Dcfldd Komutu</li>
     <li>Md5sum ve Sha1sum Komutu</li>
