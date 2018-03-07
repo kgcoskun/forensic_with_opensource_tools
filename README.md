@@ -23,7 +23,6 @@ Linux İşletim Sistemi üzerinde yapılacak Adli Bilişim İncelemelerinde Tica
     <li>Lsusb Komutu</li>
     <li>Testdisk Komutu</li>
     <li>Testdisk Komutu</li>
-    <li>Green</li>
     </ul>
   </li>
   <li>Linux Bellek Analizi</li>
